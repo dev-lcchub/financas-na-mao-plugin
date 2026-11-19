@@ -9,5 +9,13 @@
   "homepage": "https://financasnamao.rn.sebrae.com.br",
   "repository": "https://github.com/dev-lcchub/financas-na-mao-plugin",
   "license": "LicenseRef-Proprietary",
-  "keywords": ["financas-na-mao", "sebrae", "open-finance", "recebiveis", "credito-consciente", "mcp"]
+  "keywords": [
+    "financas-na-mao",
+    "sebrae",
+    "open-finance",
+    "recebiveis",
+    "credito-consciente",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://sebrae.lcchub.com.br/legal/financas-na-mao/politica-de-privacidade.html"
 }
