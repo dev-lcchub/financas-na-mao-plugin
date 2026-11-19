@@ -1,0 +1,13 @@
+{
+  "name": "financas-na-mao-sebrae",
+  "version": "0.2.0",
+  "description": "Finanças na Mão – Sebrae RN: consulte o caixa da empresa (Open Finance), recebíveis de cartão, pedidos de crédito e propostas recebidas, só para consulta e com orientação de crédito consciente.",
+  "author": {
+    "name": "Finanças na Mão – Sebrae RN",
+    "url": "https://financasnamao.rn.sebrae.com.br"
+  },
+  "homepage": "https://financasnamao.rn.sebrae.com.br",
+  "repository": "https://github.com/dev-lcchub/financas-na-mao-plugin",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["financas-na-mao", "sebrae", "open-finance", "recebiveis", "credito-consciente", "mcp"]
+}
